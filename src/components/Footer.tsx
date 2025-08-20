@@ -123,7 +123,7 @@ const Footer = () => {
               © 2025 Bagdat Asian Cuisine. All rights reserved.
             </p>
             <p className="text-gray-400 text-xs mt-2 md:mt-0">
-              Professional demo website created with Lovable
+              Professional demo website created by The Linkage Digital
             </p>
           </div>
         </div>
